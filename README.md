@@ -66,10 +66,15 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/vasudha-mestha-784b9327b/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:vasudhamestha@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/u/Vasudha0405/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://www.hackerrank.com/profile/vasudhamestha">
+    <img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank">
+  </a>
 </p>
 
 ---
-
 ⭐ *Consistently learning, building, and pushing limits.*
