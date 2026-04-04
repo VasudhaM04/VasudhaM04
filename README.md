@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 Working on **Data Structures & Algorithms and real-world projects**  
-- 🌱 Learning **Artificial Intelligence, Machine Learning, and Cybersecurity**  
+- 🌱 Learning **Artificial Intelligence, Machine Learning,Deep Learning and Cybersecurity**  
 - 💡 Strong focus on **problem solving, optimization, and system design**  
 - 🎯 Goal: Build **scalable, secure, and intelligent software systems**  
 
@@ -32,13 +32,22 @@
 #### 🔹 Machine Learning Project
 - Built models for classification, regression, and clustering  
 - Performed data preprocessing and analysis using NumPy and Pandas  
-- Implemented solutions using Scikit-learn  
+- Implemented solutions using Scikit-learn
+
+#### 🔹 Deep Learning
+- Built and trained neural network models for computer vision and pattern recognition tasks  
+- Worked with frameworks like TensorFlow, Keras, and PyTorch for model development and training  
+- Used OpenCV for image processing, feature extraction, and real-time applications  
+- Explored CNN architectures and model optimization techniques  
 
 #### 🔹 Cybersecurity & Networking
 - Explored cryptography, network security, and system vulnerabilities  
 - Practiced secure coding and basic threat analysis  
 - Gained exposure to ethical hacking concepts and vulnerability assessment  
-- Used tools like **Nmap, Wireshark, and Netcat** for network scanning, packet analysis, and communication testing  
+- Used tools like **Nmap, Wireshark, and Netcat** for network scanning, packet analysis
+- Worked with Docker for containerization, image building, and environment isolation  
+- Managed container configurations using YAML (Docker Compose)  
+- Developed familiarity with Linux systems for security testing and system-level operations  
 
 ---
 
