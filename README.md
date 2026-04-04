@@ -27,7 +27,16 @@
 #### 🔹 DSA Problem Solving
 - Implemented solutions using arrays, trees, graphs, and dynamic programming  
 - Focused on optimizing time and space complexity  
-- Strengthened analytical and logical problem-solving skills  
+- Strengthened analytical and logical problem-solving skills
+
+#### 🔹 Samsung PRISM Project
+- Contributed to a research project focused on converting Unity shaders to Godot engine-compatible formats  
+- Analyzed differences between Unity’s ShaderLab/HLSL and Godot’s shading language (GLSL-based)  
+- Developed approaches to map rendering pipelines, lighting models, and material properties across engines  
+- Worked on translating shader logic, including vertex and fragment stages, while preserving visual fidelity  
+- Optimized shaders for performance and compatibility within Godot’s rendering architecture  
+- Conducted testing and validation to ensure accurate visual output across different scenes and assets  
+- Gained hands-on experience with graphics programming, shader debugging, and cross-platform rendering challenges  
 
 #### 🔹 Machine Learning Project
 - Built models for classification, regression, and clustering  
@@ -47,7 +56,13 @@
 - Used tools like **Nmap, Wireshark, and Netcat** for network scanning, packet analysis
 - Worked with Docker for containerization, image building, and environment isolation  
 - Managed container configurations using YAML (Docker Compose)  
-- Developed familiarity with Linux systems for security testing and system-level operations  
+- Developed familiarity with Linux systems for security testing and system-level operations
+
+#### 🔹 Research Project Contribution-**Drone Jammer Project**
+- Participated in a research-oriented project exploring signal interference and drone communication systems  
+- Studied wireless protocols and frequency behavior used in drone operations  
+- Analyzed basic techniques for signal detection, disruption concepts, and system vulnerabilities  
+- Strengthened understanding of cybersecurity, networking, and real-world communication systems  
 
 ---
 
