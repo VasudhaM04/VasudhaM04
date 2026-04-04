@@ -10,7 +10,7 @@
 ### 🚀 About Me
 - 🔭 Working on **Data Structures & Algorithms and real-world projects**  
 - 🌱 Learning **Artificial Intelligence, Machine Learning,Deep Learning and Cybersecurity**  
-- 💡 Strong focus on **problem solving, optimization, and system design**  
+- 💡 Strong focus on **problem solving, optimization**  
 - 🎯 Goal: Build **scalable, secure, and intelligent software systems**  
 
 ---
