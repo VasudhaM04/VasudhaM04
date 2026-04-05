@@ -30,7 +30,7 @@
 - Strengthened analytical and logical problem-solving skills
 
 #### 🔹 Samsung PRISM Project
-- Contributed to a research project focused on converting Unity shaders to Godot engine-compatible formats  
+- Contributed to a  project focused on converting Unity shaders to Godot engine-compatible formats  
 - Analyzed differences between Unity’s ShaderLab/HLSL and Godot’s shading language (GLSL-based)  
 - Developed approaches to map rendering pipelines, lighting models, and material properties across engines  
 - Worked on translating shader logic, including vertex and fragment stages, while preserving visual fidelity  
