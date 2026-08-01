@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Vasudha</h1>
-<h3 align="center">Information Science & Engineering Student | AI · Data Science · Data Engineering · Analytics · Network Security</h3>
+<h3 align="center">Information Science & Engineering Student | AI · Data Science · Data Engineering ·Data Analytics · Network Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+in+AI+%2F+Data+%2F+Security;GirlScript+Summer+of+Code+%E2%80%9926+Contributor;Always+debugging%2C+always+learning" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### About Me
 
-- Student of **Information Science and Engineering**, exploring the intersection of **AI, Data Science, Data Engineering, Analytics, and Network Security**.
+- Student of **Information Science and Engineering**, exploring the intersection of **AI, Data Science, Data Engineering,Exploratory Data Analytics, and Network Security**.
 - Currently a **GirlScript Summer of Code (GSSoC)** contributor on the **AI Agents Track** and the **Open Source Track**.
 - Learning **network security** fundamentals and tooling alongside data-focused work.
 - Building projects across the data lifecycle: collection, pipelines, analysis, modeling, and visualization.
