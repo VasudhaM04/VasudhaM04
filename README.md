@@ -72,8 +72,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vasudhaM04&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudhaM04&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vasudhaM048&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudhaM048&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -96,8 +96,8 @@
 ### Certifications
 
 - Oracle MyLearn — *Oracle Cloud Infrastructure Associate*
-- Microsoft **DP-700**: Fabric Data Engineer Associate *
-- Microsoft **PL-300**: Power BI Data Analyst Associate *
+- Microsoft **DP-700**: *Fabric Data Engineer Associate *
+- Microsoft **PL-300**: *Power BI Data Analyst Associate *
 - WorldQuant University — Data Science, Deep Learning & Applied AI: Computer Vision
 - NPTEL-Programming, Data Structures, And Algorithms
 
