@@ -64,17 +64,8 @@
 - Working through **WorldQuant University's Applied AI: Computer Vision** module
 - Solving problems regularly on LeetCode, Codeforces, HackerRank, and DataLemur
 
----
 
-### Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| _Project Name_ | One-line description of what it does and why it matters | `Python` `Pandas` `Docker` |
-| _Project Name_ | One-line description | `SQL` `Power BI` |
-| _Project Name_ | One-line description | `Nmap` `Wireshark` |
-
-> *(Pin your best repos on your GitHub profile and update this table as projects grow.)*
 
 ---
 
@@ -94,20 +85,21 @@
 ### Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/YOUR_USERNAME"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://datalemur.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/DataLemur-4B4BFF?style=for-the-badge&logo=databricks&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Vasudha0405/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerrank.com/profile/vasudhamestha"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/neha0450"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://datalemur.com/profile"><img src="https://img.shields.io/badge/DataLemur-4B4BFF?style=for-the-badge&logo=databricks&logoColor=white" /></a>
 </p>
 
 ---
 
 ### Certifications
 
-- Oracle MyLearn — *(add certificate name)*
-- Microsoft **DP-700**: Fabric Data Engineer Associate *(in progress)*
-- Microsoft **PL-300**: Power BI Data Analyst Associate *(in progress)*
+- Oracle MyLearn — *Oracle Cloud Infrastructure Associate*
+- Microsoft **DP-700**: Fabric Data Engineer Associate *
+- Microsoft **PL-300**: Power BI Data Analyst Associate *
 - WorldQuant University — Data Science, Deep Learning & Applied AI: Computer Vision
+- NPTEL-Programming, Data Structures, And Algorithms
 
 ---
 
