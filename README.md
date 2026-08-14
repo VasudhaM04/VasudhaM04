@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vasudha</h1>
+<h1 align="center">Hi 🖐️, I'm Vasudha</h1>
 <h3 align="center">Information Science & Engineering Student | AI · Data Science · Data Engineering ·Data Analytics · Network Security</h3>
 
 <p align="center">
