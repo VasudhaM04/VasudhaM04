@@ -71,15 +71,16 @@
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasudhaM04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasudhaM04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=vasudhaM04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vasudhaM04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vasudhaM04&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vasudhaM04&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ### Coding Profiles
