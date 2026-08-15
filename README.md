@@ -108,8 +108,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vasudha-mestha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="vasudhamestha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vasudhamestha@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
