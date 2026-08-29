@@ -78,9 +78,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vasudhaM04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vasudhaM04&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+
 ---
 
 ### Coding Profiles
@@ -88,7 +86,6 @@
 <p align="left">
   <a href="https://leetcode.com/u/Vasudha0405/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.hackerrank.com/profile/vasudhamestha"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/neha0450"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://datalemur.com/profile"><img src="https://img.shields.io/badge/DataLemur-4B4BFF?style=for-the-badge&logo=databricks&logoColor=white" /></a>
 </p>
 
@@ -100,7 +97,7 @@
 - Microsoft **DP-700**: *Fabric Data Engineer Associate *
 - Microsoft **PL-300**: *Power BI Data Analyst Associate *
 - WorldQuant University — Data Science, Deep Learning & Applied AI: Computer Vision
-- NPTEL-Programming, Data Structures, And Algorithms
+- NPTEL-Programming, Data Structures, And Algorithms, Introduction to LLM
 
 ---
 
