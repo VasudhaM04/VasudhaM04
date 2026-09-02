@@ -74,10 +74,7 @@
 ### GitHub Stats
 
 <p align="center">
-<img
-  src="https://your-stats-app.vercel.app/api?username=VasudhaM04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  height="165"
-/>
+
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vasudhaM04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
